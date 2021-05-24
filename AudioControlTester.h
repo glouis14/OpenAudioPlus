@@ -1,5 +1,3 @@
-// test commit
-
 #ifndef _AudioControlTester_h
 #define _AudioControlTester_h
 
